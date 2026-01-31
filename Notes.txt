@@ -1,0 +1,8 @@
+Project3tierDB
+admin
+Ramesh123
+Project3tierDB
+mysql -h project3tierdb.cz8kgcogwh96.ap-south-1.rds.amazonaws.com -P 3306 -u admin -p
+wget -P /var/www/html https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvprF-kjj26Zy56-pBg4DsJYCkIUFzvPjGuw&s
+    wget -P /path/to/your/directory https://example.com/image.png
+	    curl -o /var/www/html/Logo.png https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvprF-kjj26Zy56-pBg4DsJYCkIUFzvPjGuw&s
